@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+        // task 2 - by codesoft internship 
         // Student Grade Calculator in java
         // Developed by - Gopal Kute
 public class StudentGradeCalculator
