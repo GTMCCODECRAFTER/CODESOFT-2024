@@ -1,5 +1,6 @@
 import java.util.Scanner;
 import java.lang.Math;
+        // task 1 - by codesoft internship 
         // Guessing number between 1 to 100 game
         // Developed by - Gopal Kute
 public class GuessingGame {
